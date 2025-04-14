@@ -5,7 +5,7 @@ The study of protein-RNA interactions (RPIs) is critical for understanding many 
 
 ## TL;DR: simple usage example in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lgR05mLUk1lHpKSxCB76bvcMGGj6mHzi?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lgR05mLUk1lHpKSxCB76bvcMGGj6mHzi?usp=sharing)
 
 ## Graphical representation of the work
 
