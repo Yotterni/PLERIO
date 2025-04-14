@@ -1,7 +1,7 @@
 import sys
-sys.path.append('..')
+sys.path.append('')
 
-from engine.dataconstruction_utils.kmer_counting import KmerCounter
+from plerio.engine.dataconstruction_utils.kmer_counting import KmerCounter
 from matplotlib.colors import ListedColormap
 from pathlib import Path
 
