@@ -115,6 +115,7 @@ class PretrainedProteinModel:
 
         xticks = np.linspace(0, len(track), num_ticks)
         xtick_labels = xticks * self.step
+        xtick_labels = xtick_labels.astype(int)
 
         ax.set_xticks(xticks)
         ax.set_xticklabels(xtick_labels)
