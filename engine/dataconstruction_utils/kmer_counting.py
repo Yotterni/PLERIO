@@ -23,7 +23,7 @@ class KmerCounter:
          'ATGC' (DNA) or 'AUGC' (RNA). Note that KmerProcessor with soft mode
          will successfully process RNA even with `rna_alphabet=False`, but it
          will just skip all the `U`-containing kmers which is probably not
-         your objective. Same can be said for DNA, `rna_alphabet=False`
+         your objective. The same can be said for DNA, `rna_alphabet=False`
          and `T`, respectively. So it is highly recommended to use
          `KmerProcessor` with `mode='hard'` at least on the debugging stages
          of your project.
